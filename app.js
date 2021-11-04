@@ -7,7 +7,7 @@ const playUntil = document.querySelector("#playTo");
 var audio = new Audio("applause4.mp3");
 let p1score = 0;
 let p2score = 0;
-let winningScore = playUntil;
+let winningScore = 3;
 let isGameOver = false;
 P1Button.addEventListener("click", function () {
   if (!isGameOver) {
