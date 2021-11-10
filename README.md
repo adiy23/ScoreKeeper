@@ -12,4 +12,3 @@ This is the site link: https://adiy23.github.io/ScoreKeeper/
 ![ScoreKeeper Photo](https://user-images.githubusercontent.com/86412229/141104760-985f4123-27e0-4249-bc13-51db53d1da4c.jpg)
 
 
-
