@@ -1,6 +1,7 @@
 # ScoreKeeper
 
 This is a site where you can track your score while you play a game
+
 This is the site link: https://adiy23.github.io/ScoreKeeper/.
 
 1. I used HTML for the structure of the website.
